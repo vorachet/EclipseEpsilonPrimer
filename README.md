@@ -1,5 +1,7 @@
 # Eclipse Epsilon Primer
 
+* Project website:  https://www.eclipse.org/epsilon/ 
+
 ## Writing EOL Program
 
 ### Interactive Dialogs 
